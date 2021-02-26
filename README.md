@@ -2,8 +2,7 @@
 
 ## Natural Language Processing With Convolutional Neural Networks
 
-### View the recording of this workshop here:
-
+### View the recording of this workshop here: 
 https://www.youtube.com/watch?v=SSKmd2UGRqY
 
 In this workshop we will see the basic workflow for creating a model that, based on a training dataset containing audio, predicts if a given sound is of one class (yes) or another (no).
